@@ -78,9 +78,7 @@
 
 [2016-11-23] [**EEGNet**] [EEGNet: A Compact Convolutional Network for EEG-based Brain-Computer Interfaces](https://arxiv.org/abs/1611.08024) [[Code](https://github.com/aliasvishnu/EEGNet)]
 
-[2008-09-26] [**FBCSP**] [Filter Bank Common Spatial Pattern (FBCSP) in Brain-Computer Interface](https://ieeexplore.ieee.org/document/4634130) [Code(unofficial)]
-
-[] []  [Code]
+[2008-09-26] [**FBCSP**] [Filter Bank Common Spatial Pattern (FBCSP) in Brain-Computer Interface](https://ieeexplore.ieee.org/document/4634130) [[Code(unofficial)](https://github.com/orvindemsy/BCICIV2a-FBCSP)]
 
 ## 开源模型库
 
@@ -107,7 +105,3 @@
 - [Docs] 具体的指南文件
 
 [**MNE**] [MEG and EEG data analysis with MNE-Python](https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2013.00267/full) [[Code](https://github.com/mne-tools)][[Docs](https://mne.tools/stable/index.html#)]
-
-[PyTorch] [Code] [Docs]
-
-[TensorFlow] [Code] [Docs]
