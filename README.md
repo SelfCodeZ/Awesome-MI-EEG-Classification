@@ -44,8 +44,6 @@
 
 [2024-06-30] [**SNNforMI**] [A lightweight spiking neural network for EEG-based motor imagery classification](https://www.sciencedirect.com/science/article/abs/pii/S0893608025006215) **[[Code](https://github.com/Zhr1110/SnnForMI)]**
 
-[2024-04-25] [**EEGDeformer**] [EEG-Deformer: A Dense Convolutional Transformer for Brain-computer Interfaces](https://arxiv.org/abs/2405.00719) **[[Code](https://github.com/yi-ding-cs/EEG-Deformer)]**
-
 [2024-02-04] [**CTNet**] [CTNet: A convolutional transformer network for EEG-based motor imagery classification](https://www.nature.com/articles/s41598-024-71118-7) **[[Code](https://github.com/snailpt/CTNet)]**
 
 [2024-01-28] [**FACTNet**] [FACT-Net: A Frequency Adapter CNN With Temporal-Periodicity Inception for Fast and Accurate MI-EEG Decoding](https://ieeexplore.ieee.org/document/10755982) **[[Code](https://github.com/Ktn1ga/EEG_FACT)]**
