@@ -1,7 +1,5 @@
 # Awesome-MI-EEG-Classification
 
-[https://github.com/ZealousG/Awesome-MI-EEG](https://github.com/ZealousG/Awesome-MI-EEG)
-
 # 数据集
 
 这里包含了相关的数据集下载和文档：
